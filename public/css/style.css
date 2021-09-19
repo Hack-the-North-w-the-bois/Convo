@@ -43,6 +43,7 @@ body {
   padding: 5px;
   height: 40px;
   width: 100%;
+  text-decoration: none;
 }
 
 .join-main select {
