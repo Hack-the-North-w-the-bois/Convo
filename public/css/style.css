@@ -11,11 +11,6 @@ body {
   padding: 0;
 }
 /* Join Page */
-.join-container {
-  max-width: 500px;
-  margin: 80px auto;
-  color: rgb(93, 78, 78);
-}
 
 .join-header {
   text-align: center;
@@ -57,7 +52,7 @@ body {
   width: 100%;
 }
 
-.join-main .btn {
+.join-main .join-button {
   margin-top: 20px;
   width: 100%;
 }
